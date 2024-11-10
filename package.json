@@ -1,0 +1,11 @@
+{
+  "name": "scrape",
+  "module": "speech.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
